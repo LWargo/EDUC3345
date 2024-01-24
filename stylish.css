@@ -6,11 +6,20 @@
     margin-top: 50%;
 }
 .title-style{
-    color: rgb(183, 232, 215);
+    color: rgb(252, 169, 253);
     text-align: center;
     font-size: 2.5rem;
     background: linear-gradient(.25turn, rgb(189, 88, 202), green);
 }
+
+
+
+
 .assignment-style{
     margin-left: 40%;
+}
+.discussion{
+    font-size: 1.5rem;
+    margin-left: 40%;
+    margin-top: 3%;
 }
